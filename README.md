@@ -89,5 +89,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 * **Author** - **Bisistha Patra**
-* **GitHub** - 
+* **GitHub** - https://github.com/BisisthaP
 * **Email** - patrabisistha@gmail.com
